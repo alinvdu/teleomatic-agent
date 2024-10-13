@@ -9,3 +9,5 @@ Teleomatic Agent is an experimental AI system designed to autonomously generate 
 - Emotional State Simulation: Simulates states like satisfaction, frustration, and curiosity, which dynamically influence decision-making and behavior.
 - Self-Reflective Memory: Integrates long-term memory to track the agent’s progress, allowing it to reflect on past actions and refine its goals over time.
 - Reward-Based Learning: Combines intrinsic motivation and external feedback to optimize the agent’s performance toward both internal and external objectives.
+
+ Others
